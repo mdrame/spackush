@@ -1,4 +1,4 @@
 # spackush
 
 
-<a href="upgain1.github.io/spacekush/"> Link </a>
+<a href="upgain1.github.io"> Link </a>
